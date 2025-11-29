@@ -3,8 +3,8 @@
 ## 収集
 
 ``` bash
-brew bundle --file=~/Brewfile
+brew bundle dump --file=~/Brewfile --force
 ```
-
+Brewfile が生成されるので適切に保管する
 
 ---
